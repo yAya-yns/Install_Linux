@@ -1,5 +1,5 @@
 # Install_Linux
-A Tutorial for installing Arch Linux
+A blog about installing Arch Linux facing to OS beginner
 
 I encountered a lot of issues while installing Arch Linux for the first time. 
 
